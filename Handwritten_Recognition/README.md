@@ -35,9 +35,8 @@ This application recognizes handwritten digits, individual English characters, a
 
 - `app.py` – Main Streamlit application.
 - `models/` – Trained machine learning models.
-- `data/` – Required datasets and vocabulary files.
+- `data/` – Required vocabulary files.
 - `src/` – Source code and supporting scripts.
-- `notebooks/` – Jupyter notebooks.
 - `results/` – Training and evaluation results.
 - `requirements.txt` – Required Python libraries.
 
